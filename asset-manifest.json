@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Transnation/static/css/main.001589a2.css",
+    "main.js": "/Transnation/static/js/main.4b8c6844.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Transnation/static/js/787.d4aba7ab.chunk.js",
+    "static/media/emerging_books_services.png": "/Transnation/static/media/emerging_books_services.c3ee3c86bee1faba64ac.png",
+    "static/media/homecover.png": "/Transnation/static/media/homecover.3f0b9483868b8b3cd455.png",
+    "static/media/attendance_interpretation_services.png": "/Transnation/static/media/attendance_interpretation_services.08bc7c726bf6ea1fb215.png",
+    "static/media/technical_professional_services.png": "/Transnation/static/media/technical_professional_services.db1dd9a968a5bc336215.png",
+    "static/media/ServicesCover .png": "/Transnation/static/media/ServicesCover .0872a044fdd664fd87a9.png",
+    "static/media/online_interpretation_services.png": "/Transnation/static/media/online_interpretation_services.6978925568681a7d300a.png",
+    "static/media/voiceover_voice_services.png": "/Transnation/static/media/voiceover_voice_services.3825015d35e9ece85831.png",
+    "static/media/interpretationCard.png": "/Transnation/static/media/interpretationCard.7ae1f4d1da5c55527271.png",
+    "static/media/ameniphoto.png": "/Transnation/static/media/ameniphoto.92ddb11af91623662844.png",
+    "static/media/professionalCard.png": "/Transnation/static/media/professionalCard.575f0f2acac7a1cda375.png",
+    "static/media/emergingbooksCard.png": "/Transnation/static/media/emergingbooksCard.d960308f921e91bbc3ff.png",
+    "static/media/certifDoc_professional_services.png": "/Transnation/static/media/certifDoc_professional_services.621950937af0154d0ce6.png",
+    "static/media/subtitles_voice_services.png": "/Transnation/static/media/subtitles_voice_services.d29734b627819cb840f4.png",
+    "static/media/voiceCard.png": "/Transnation/static/media/voiceCard.639efafab50423b3a6c4.png",
+    "static/media/legal_professional_services.png": "/Transnation/static/media/legal_professional_services.8f83cd9ae869120a11a4.png",
+    "static/media/audio_clip_voice_exemple.mp3": "/Transnation/static/media/audio_clip_voice_exemple.8121003473b622e972d7.mp3",
+    "static/media/audio_clip_voice_ameni.mp3": "/Transnation/static/media/audio_clip_voice_ameni.f4a3ecdc0808ed8ae871.mp3",
+    "index.html": "/Transnation/index.html",
+    "main.001589a2.css.map": "/Transnation/static/css/main.001589a2.css.map",
+    "main.4b8c6844.js.map": "/Transnation/static/js/main.4b8c6844.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Transnation/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001589a2.css",
+    "static/js/main.4b8c6844.js"
+  ]
+}
